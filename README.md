@@ -6,7 +6,7 @@ Projeto de integração e enriquecimento de dados utilizando Python, Pandas, web
 
 Construir um pipeline de dados integrando informações dos indicados ao Oscar de Melhor Filme Internacional com dados geográficos da API de países do IBGE.
 
-![grafico.subregioes[(grafico.suregioes.png)
+![grafico_subregioes[(grafico_suregioes.png)
 
 ## Tecnologias
 
